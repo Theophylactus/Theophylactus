@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Theophylactus. I am extremely passionate about science, technology, engineering and mathematics. I'm also deeply interested in European culture and history, that's how I came to learn Latin.
+
 <!--
 **Theophylactus/Theophylactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
